@@ -1,4 +1,5 @@
 {
-  "installCommand": "npm install && npm rebuild",
-  "buildCommand": "npx next build"
+  "installCommand": "npm install",
+  "buildCommand": "npx next build",
+  "nodeVersion": "20"
 }
